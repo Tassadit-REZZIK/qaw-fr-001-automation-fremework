@@ -2,10 +2,35 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="sauce demo regression">
-        <test name="login page">
+    <parameter name="useCloudEnv" value="false"></parameter>
+    <parameter name="envName" value="browserstack"></parameter>
+    <parameter name="osVersion" value="11"></parameter>
+    <parameter name="browserVersion" value="108"></parameter>
+
+    <parameter name="os" value="windows"></parameter>
+    <parameter name="browserName" value="chrome"></parameter>
+    <parameter name="url" value="https://www.saucedemo.com/"></parameter>
+<!--    <parameter name="url" value="https://rahulshettyacademy.com/AutomationPractice/"></parameter>-->
+<!--    <parameter name="https://jqueryui.com/droppable/" value=""></parameter>-->
+
+    <test name="login page">
             <classes>
-                <class name="org.qaway.TestInitialPage">  </class>
-                    <class name="org.qaway.TestLogin"></class>
+                <class name="org.qaway.TestInitialPage"></class>
+                <class name="org.qaway.TestLogin"></class>
+                <class name="org.qaway.TestPurchase"></class>
+                <class name="org.qaway.TestFilter"></class>
+                <class name="org.qaway.TestMenu"></class>
+<!--                <class name="org.qaway.testDragDrp.TestDragDrop"></class>-->
+<!--                <class name="org.qaway.testsPractice.TestButtonPage"></class>-->
+<!--                <class name="org.qaway.testsPractice.TestPracticePage"></class>-->
+<!--                <class name="org.qaway.testsPractice.TestScrollDown"></class>-->
+<!--                <class name="org.qaway.testsPractice.TestSelectDropdown"></class>-->
+<!--                <class name="org.qaway.testsPractice.TestSuggestionDrodown"></class>-->
+<!--                <class name="org.qaway.testsPractice.TestTableText"></class>-->
+<!--                <class name="org.qaway.testsPractice.TestWindowTabHandle"></class>-->
+
+                
             </classes>
-        </test>
+    </test>
 </suite>
+
