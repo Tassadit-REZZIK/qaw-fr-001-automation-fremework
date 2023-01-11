@@ -16,7 +16,7 @@ public class TestWindowTabHandle extends CommonAPI {
         Set<String> windows = driver.getWindowHandles();
         Iterator<String> it = windows.iterator();
         String parent = it.next();
-        String tab = it.next();
+        String tab = it.next();git add
         driver.switchTo().window(tab);
         System.out.println("switch to tab success");
         windowTabHandlePage.clicklogin();

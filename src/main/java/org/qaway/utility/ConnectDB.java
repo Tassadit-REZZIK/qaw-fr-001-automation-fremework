@@ -62,7 +62,7 @@ public class ConnectDB {
 //        connectDB.connectToMySql().close();
         // avant que j'utilise ma base de données faut que je la démmare sur términal
         /*
-        mysql. server start
+        mysql.server start
         mysql -u root –p
         show databases
         uqe myDB

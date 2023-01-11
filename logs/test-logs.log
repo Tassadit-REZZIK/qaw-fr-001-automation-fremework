@@ -161,3 +161,234 @@
 23:47:31.307 [main] INFO  org.qaway.pages.SLCommunityPage - main header display success
 23:47:31.428 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
 23:47:31.962 [main] INFO  org.qaway.base.CommonAPI - browser close success
+22:08:21.989 [main] INFO  org.qaway.base.CommonAPI - browser open success
+22:08:24.003 [main] INFO  org.qaway.TestInitialPage - test pass
+22:08:24.740 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+22:08:25.440 [main] INFO  org.qaway.base.CommonAPI - browser close success
+22:08:27.929 [main] INFO  org.qaway.base.CommonAPI - browser open success
+22:08:28.551 [main] INFO  org.qaway.TestInitialPage - page title validation succes
+22:08:28.793 [main] INFO  org.qaway.pages.LoginPage - cheking username field is displayed ...
+22:08:28.854 [main] INFO  org.qaway.TestInitialPage - username field is displayed
+22:08:28.854 [main] INFO  org.qaway.pages.LoginPage - cheking password field is displayed ...
+22:08:28.909 [main] INFO  org.qaway.TestInitialPage - password field is displayed
+22:08:28.909 [main] INFO  org.qaway.pages.LoginPage - cheking login button is displayed ...
+22:08:28.946 [main] INFO  org.qaway.TestInitialPage - login button field is displayed
+22:08:29.000 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+22:08:29.366 [main] INFO  org.qaway.base.CommonAPI - browser close success
+22:08:31.923 [main] INFO  org.qaway.base.CommonAPI - browser open success
+22:08:32.349 [main] INFO  org.qaway.TestLogin - page title validation succes
+22:08:32.711 [main] INFO  org.qaway.TestLogin - login button click succes
+22:08:32.759 [main] INFO  org.qaway.TestLogin - error message: Epic sadface: Password is required
+22:08:33.095 [main] INFO  org.qaway.TestLogin - error message validation succes
+22:08:33.165 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+22:08:33.578 [main] INFO  org.qaway.base.CommonAPI - browser close success
+22:08:35.768 [main] INFO  org.qaway.base.CommonAPI - browser open success
+22:08:36.108 [main] INFO  org.qaway.TestLogin - page title validation succes
+22:08:36.554 [main] INFO  org.qaway.TestLogin - login button click succes
+22:08:36.608 [main] INFO  org.qaway.TestLogin - error message: Epic sadface: Username is required
+22:08:36.928 [main] INFO  org.qaway.TestLogin - error message validation succes
+22:08:36.975 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+22:08:37.343 [main] INFO  org.qaway.base.CommonAPI - browser close success
+22:08:39.288 [main] INFO  org.qaway.base.CommonAPI - browser open success
+22:08:39.915 [main] INFO  org.qaway.pages.LoginPage - login process success
+22:08:39.920 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+22:08:40.163 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+22:08:40.506 [main] INFO  org.qaway.base.CommonAPI - browser close success
+22:08:42.360 [main] INFO  org.qaway.base.CommonAPI - browser open success
+22:08:42.717 [main] INFO  org.qaway.pages.LoginPage - login process success
+22:08:42.717 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+22:08:43.462 [main] INFO  org.qaway.pages.HomePage - price low to high select success
+22:08:43.652 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+22:08:44.011 [main] INFO  org.qaway.base.CommonAPI - browser close success
+22:08:45.808 [main] INFO  org.qaway.base.CommonAPI - browser open success
+22:08:46.573 [main] INFO  org.qaway.pages.LoginPage - login process success
+22:08:46.758 [main] INFO  org.qaway.pages.HomePage - click on hamburger menu success
+22:08:48.762 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+22:08:48.796 [main] INFO  org.qaway.pages.HomePage - cheking all items link is displayed ...
+22:08:48.831 [main] INFO  org.qaway.pages.HomePage - cheking about link is displayed ...
+22:08:48.860 [main] INFO  org.qaway.pages.HomePage - cheking logout link is displayed ...
+22:08:48.891 [main] INFO  org.qaway.pages.HomePage - cheking app state link is displayed ...
+22:08:49.994 [main] INFO  org.qaway.pages.HomePage - click on about link success
+22:08:50.026 [main] INFO  org.qaway.TestMenu - current url: https://saucelabs.com/
+22:08:53.181 [main] INFO  org.qaway.pages.SLHomePage - hover hover contact success
+22:09:03.323 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+22:09:03.323 [main] INFO  org.qaway.base.CommonAPI - test failed
+22:09:03.797 [main] INFO  org.qaway.base.CommonAPI - take screenshot
+22:09:04.142 [main] INFO  org.qaway.base.CommonAPI - browser close success
+22:09:43.332 [main] INFO  org.qaway.base.CommonAPI - browser open success
+22:09:53.888 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+22:09:53.889 [main] INFO  org.qaway.base.CommonAPI - test failed
+22:09:54.102 [main] INFO  org.qaway.base.CommonAPI - take screenshot
+22:09:54.491 [main] INFO  org.qaway.base.CommonAPI - browser close success
+11:35:53.641 [main] INFO  org.qaway.base.CommonAPI - browser open success
+11:35:57.264 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+11:35:57.265 [main] INFO  org.qaway.base.CommonAPI - test failed
+17:07:02.775 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:07:04.049 [main] INFO  org.qaway.TestInitialPage - test pass
+17:07:04.388 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:07:04.658 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:07:06.493 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:07:06.850 [main] INFO  org.qaway.TestInitialPage - page title validation succes
+17:07:07.139 [main] INFO  org.qaway.pages.LoginPage - cheking username field is displayed ...
+17:07:07.200 [main] INFO  org.qaway.TestInitialPage - username field is displayed
+17:07:07.200 [main] INFO  org.qaway.pages.LoginPage - cheking password field is displayed ...
+17:07:07.249 [main] INFO  org.qaway.TestInitialPage - password field is displayed
+17:07:07.249 [main] INFO  org.qaway.pages.LoginPage - cheking login button is displayed ...
+17:07:07.285 [main] INFO  org.qaway.TestInitialPage - login button field is displayed
+17:07:07.324 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:07:07.632 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:07:09.289 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:07:09.592 [main] INFO  org.qaway.TestLogin - page title validation succes
+17:07:09.958 [main] INFO  org.qaway.TestLogin - login button click succes
+17:07:09.999 [main] INFO  org.qaway.TestLogin - error message: Epic sadface: Password is required
+17:07:10.293 [main] INFO  org.qaway.TestLogin - error message validation succes
+17:07:10.339 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:07:10.650 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:07:12.236 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:07:12.492 [main] INFO  org.qaway.TestLogin - page title validation succes
+17:07:12.782 [main] INFO  org.qaway.TestLogin - login button click succes
+17:07:12.834 [main] INFO  org.qaway.TestLogin - error message: Epic sadface: Username is required
+17:07:13.159 [main] INFO  org.qaway.TestLogin - error message validation succes
+17:07:13.206 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:07:13.497 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:07:15.282 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:07:15.751 [main] INFO  org.qaway.pages.LoginPage - login process success
+17:07:15.754 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+17:07:16.023 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:07:16.331 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:07:17.900 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:07:18.344 [main] INFO  org.qaway.pages.LoginPage - login process success
+17:07:18.345 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+17:07:19.177 [main] INFO  org.qaway.pages.HomePage - price low to high select success
+17:07:19.366 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:07:19.611 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:07:21.185 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:07:21.638 [main] INFO  org.qaway.pages.LoginPage - login process success
+17:07:21.749 [main] INFO  org.qaway.pages.HomePage - click on hamburger menu success
+17:07:23.764 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+17:07:23.800 [main] INFO  org.qaway.pages.HomePage - cheking all items link is displayed ...
+17:07:23.838 [main] INFO  org.qaway.pages.HomePage - cheking about link is displayed ...
+17:07:23.870 [main] INFO  org.qaway.pages.HomePage - cheking logout link is displayed ...
+17:07:23.904 [main] INFO  org.qaway.pages.HomePage - cheking app state link is displayed ...
+17:07:26.380 [main] INFO  org.qaway.pages.HomePage - click on about link success
+17:07:26.395 [main] INFO  org.qaway.TestMenu - current url: https://saucelabs.com/
+17:07:29.570 [main] INFO  org.qaway.pages.SLHomePage - hover hover contact success
+17:07:31.791 [main] INFO  org.qaway.pages.SLHomePage - click on sauce community success
+17:07:31.793 [main] INFO  org.qaway.pages.SLCommunityPage - main header display success
+17:07:31.925 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:07:32.498 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:08:00.656 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:08:01.855 [main] INFO  org.qaway.TestInitialPage - test pass
+17:08:02.206 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:08:02.455 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:08:03.969 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:08:04.435 [main] INFO  org.qaway.TestInitialPage - page title validation succes
+17:08:04.632 [main] INFO  org.qaway.pages.LoginPage - cheking username field is displayed ...
+17:08:04.684 [main] INFO  org.qaway.TestInitialPage - username field is displayed
+17:08:04.684 [main] INFO  org.qaway.pages.LoginPage - cheking password field is displayed ...
+17:08:04.722 [main] INFO  org.qaway.TestInitialPage - password field is displayed
+17:08:04.722 [main] INFO  org.qaway.pages.LoginPage - cheking login button is displayed ...
+17:08:04.757 [main] INFO  org.qaway.TestInitialPage - login button field is displayed
+17:08:04.799 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:08:05.061 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:08:06.599 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:08:06.900 [main] INFO  org.qaway.TestLogin - page title validation succes
+17:08:07.167 [main] INFO  org.qaway.TestLogin - login button click succes
+17:08:07.201 [main] INFO  org.qaway.TestLogin - error message: Epic sadface: Password is required
+17:08:07.454 [main] INFO  org.qaway.TestLogin - error message validation succes
+17:08:07.495 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:08:07.763 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:08:09.268 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:08:09.573 [main] INFO  org.qaway.TestLogin - page title validation succes
+17:08:09.830 [main] INFO  org.qaway.TestLogin - login button click succes
+17:08:09.867 [main] INFO  org.qaway.TestLogin - error message: Epic sadface: Username is required
+17:08:10.058 [main] INFO  org.qaway.TestLogin - error message validation succes
+17:08:10.102 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:08:10.413 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:08:11.907 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:08:12.340 [main] INFO  org.qaway.pages.LoginPage - login process success
+17:08:12.345 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+17:08:12.570 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:08:12.818 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:08:14.395 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:08:14.864 [main] INFO  org.qaway.pages.LoginPage - login process success
+17:08:14.864 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+17:08:15.707 [main] INFO  org.qaway.pages.HomePage - price low to high select success
+17:08:15.935 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:08:16.252 [main] INFO  org.qaway.base.CommonAPI - browser close success
+17:08:17.904 [main] INFO  org.qaway.base.CommonAPI - browser open success
+17:08:18.351 [main] INFO  org.qaway.pages.LoginPage - login process success
+17:08:18.477 [main] INFO  org.qaway.pages.HomePage - click on hamburger menu success
+17:08:20.480 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+17:08:20.515 [main] INFO  org.qaway.pages.HomePage - cheking all items link is displayed ...
+17:08:20.550 [main] INFO  org.qaway.pages.HomePage - cheking about link is displayed ...
+17:08:20.580 [main] INFO  org.qaway.pages.HomePage - cheking logout link is displayed ...
+17:08:20.608 [main] INFO  org.qaway.pages.HomePage - cheking app state link is displayed ...
+17:08:21.481 [main] INFO  org.qaway.pages.HomePage - click on about link success
+17:08:21.488 [main] INFO  org.qaway.TestMenu - current url: https://saucelabs.com/
+17:08:24.654 [main] INFO  org.qaway.pages.SLHomePage - hover hover contact success
+17:08:26.141 [main] INFO  org.qaway.pages.SLHomePage - click on sauce community success
+17:08:26.142 [main] INFO  org.qaway.pages.SLCommunityPage - main header display success
+17:08:26.311 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+17:08:26.775 [main] INFO  org.qaway.base.CommonAPI - browser close success
+21:34:53.375 [main] INFO  org.qaway.base.CommonAPI - browser open success
+21:34:55.468 [main] INFO  org.qaway.TestInitialPage - test pass
+21:34:55.966 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+21:34:56.537 [main] INFO  org.qaway.base.CommonAPI - browser close success
+21:34:58.874 [main] INFO  org.qaway.base.CommonAPI - browser open success
+21:34:59.595 [main] INFO  org.qaway.TestInitialPage - page title validation succes
+21:34:59.846 [main] INFO  org.qaway.pages.LoginPage - cheking username field is displayed ...
+21:34:59.905 [main] INFO  org.qaway.TestInitialPage - username field is displayed
+21:34:59.906 [main] INFO  org.qaway.pages.LoginPage - cheking password field is displayed ...
+21:34:59.952 [main] INFO  org.qaway.TestInitialPage - password field is displayed
+21:34:59.952 [main] INFO  org.qaway.pages.LoginPage - cheking login button is displayed ...
+21:34:59.993 [main] INFO  org.qaway.TestInitialPage - login button field is displayed
+21:35:00.059 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+21:35:00.432 [main] INFO  org.qaway.base.CommonAPI - browser close success
+21:35:02.486 [main] INFO  org.qaway.base.CommonAPI - browser open success
+21:35:02.868 [main] INFO  org.qaway.TestLogin - page title validation succes
+21:35:03.198 [main] INFO  org.qaway.TestLogin - login button click succes
+21:35:03.248 [main] INFO  org.qaway.TestLogin - error message: Epic sadface: Password is required
+21:35:03.591 [main] INFO  org.qaway.TestLogin - error message validation succes
+21:35:03.652 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+21:35:03.985 [main] INFO  org.qaway.base.CommonAPI - browser close success
+21:35:06.081 [main] INFO  org.qaway.base.CommonAPI - browser open success
+21:35:06.393 [main] INFO  org.qaway.TestLogin - page title validation succes
+21:35:06.735 [main] INFO  org.qaway.TestLogin - login button click succes
+21:35:06.777 [main] INFO  org.qaway.TestLogin - error message: Epic sadface: Username is required
+21:35:07.058 [main] INFO  org.qaway.TestLogin - error message validation succes
+21:35:07.100 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+21:35:07.464 [main] INFO  org.qaway.base.CommonAPI - browser close success
+21:35:09.702 [main] INFO  org.qaway.base.CommonAPI - browser open success
+21:35:09.994 [main] INFO  org.qaway.TestLogin - page title validation succes
+21:35:10.097 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+21:35:20.205 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+21:35:20.206 [main] INFO  org.qaway.base.CommonAPI - test failed
+21:35:20.589 [main] INFO  org.qaway.base.CommonAPI - take screenshot
+21:35:20.997 [main] INFO  org.qaway.base.CommonAPI - browser close success
+21:35:23.193 [main] INFO  org.qaway.base.CommonAPI - browser open success
+21:35:23.588 [main] INFO  org.qaway.pages.LoginPage - login process success
+21:35:23.593 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+21:35:24.284 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+21:35:24.718 [main] INFO  org.qaway.base.CommonAPI - browser close success
+21:35:26.590 [main] INFO  org.qaway.base.CommonAPI - browser open success
+21:35:27.072 [main] INFO  org.qaway.pages.LoginPage - login process success
+21:35:27.072 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+21:35:28.068 [main] INFO  org.qaway.pages.HomePage - price low to high select success
+21:35:28.339 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+21:35:28.611 [main] INFO  org.qaway.base.CommonAPI - browser close success
+21:35:31.389 [main] INFO  org.qaway.base.CommonAPI - browser open success
+21:35:31.924 [main] INFO  org.qaway.pages.LoginPage - login process success
+21:35:32.078 [main] INFO  org.qaway.pages.HomePage - click on hamburger menu success
+21:35:34.089 [main] INFO  org.qaway.pages.HomePage - products header is displayed
+21:35:34.148 [main] INFO  org.qaway.pages.HomePage - cheking all items link is displayed ...
+21:35:34.195 [main] INFO  org.qaway.pages.HomePage - cheking about link is displayed ...
+21:35:34.243 [main] INFO  org.qaway.pages.HomePage - cheking logout link is displayed ...
+21:35:34.304 [main] INFO  org.qaway.pages.HomePage - cheking app state link is displayed ...
+21:35:37.208 [main] INFO  org.qaway.pages.HomePage - click on about link success
+21:35:37.232 [main] INFO  org.qaway.TestMenu - current url: https://saucelabs.com/
+21:35:40.408 [main] INFO  org.qaway.pages.SLHomePage - hover hover contact success
+21:35:43.299 [main] INFO  org.qaway.pages.SLHomePage - click on sauce community success
+21:35:43.299 [main] INFO  org.qaway.pages.SLCommunityPage - main header display success
+21:35:43.638 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+21:35:44.182 [main] INFO  org.qaway.base.CommonAPI - browser close success

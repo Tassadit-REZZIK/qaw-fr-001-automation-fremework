@@ -47,7 +47,7 @@ public class TestLogin extends CommonAPI { // je rajoute extends CommonAPI
 
 
     // on va créer un autre test
-    //@Test // il est connectée à la base de données
+    @Test // il est connectée à la base de données
     public void loginWithValidCredential() {    //j'élimine "throws InterruptedException"
         LoginPage loginPage = new LoginPage(driver); // faut le mettre dans la méthode sinon ça ne va pas marcher
         HomePage homePage = new HomePage(driver); // juste pour cette méthode

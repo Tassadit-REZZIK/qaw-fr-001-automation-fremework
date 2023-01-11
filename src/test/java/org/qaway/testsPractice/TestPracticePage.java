@@ -9,11 +9,14 @@ public class TestPracticePage extends CommonAPI {
    public void testAlert() {
        PracticePage practicePage = new PracticePage(driver);
        practicePage.click1();
-       System.out.println(driver.switchTo().alert().getText());
-       driver.switchTo().alert().accept();
+//       System.out.println(driver.switchTo().alert().getText());
+//       driver.switchTo().alert().accept();
+       acceptAlert(driver);
        practicePage.click2();
-       System.out.println(driver.switchTo().alert().getText());
-       driver.switchTo().alert().dismiss();
+//       System.out.println(driver.switchTo().alert().getText());
+       System.out.println(getAlertText(driver));
+//       driver.switchTo().alert().dismiss();
+       getAlertDismiss(driver);
 //       practicePage.alertFieldElement().sendKeys("hanafi");
 //       Assert.assertTrue(practicePage.alertFieldIsDisplayed());
 //       System.out.println("alert field is displayed");

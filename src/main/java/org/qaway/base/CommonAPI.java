@@ -406,6 +406,18 @@ public void getCLoudDriver(String envName, String os, String osVersion, String b
         js.executeScript("arguments[0].ScrollIntoView", element);
     }
 
+    public void acceptAlert(WebDriver driver){
+        driver.switchTo().alert().accept();
+    }
+    public String getAlertText(WebDriver driver){
+        return(driver.switchTo().alert().getText());
+    }
+
+    public void getAlertDismiss(WebDriver driver){
+        driver.switchTo().alert().dismiss();
+    }
+
+
 
 
 
